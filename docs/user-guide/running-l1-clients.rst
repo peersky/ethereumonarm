@@ -507,7 +507,7 @@ my mnemonic phrase"** and click **"Continue"**.
   Again, **make sure you have both an Execution Layer client + a Consensus Layer client synced, 
   running along and properly configured**.
 
-10. It is time to send the 32 ETH deposit to the Ethereum mainnet contractg. You need the 
+10. It is time to send the 32 ETH deposit to the Ethereum mainnet contract. You need the 
 deposit file (located in your Board). You can, either copy and paste the 
 file content and save it as a new JSON file in your desktop computer or copy the file 
 from the Raspberry to your desktop through SSH.
